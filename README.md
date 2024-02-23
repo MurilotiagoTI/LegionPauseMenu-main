@@ -2,11 +2,11 @@ REDM PAUSE MENU
 
 Working on All Cores
 
-DISCORD https://discord.gg/
+DISCORD https://discord.gg/uQudG2U734
 
-GitHub https://github.com/MurilotiagoTI
+GitHub [https://github.com/](https://github.com/MurilotiagoTI)
 
-Download https://github.com/
+Download [https://github.com/](https://github.com/MurilotiagoTI/LegionPauseMenu-main)
 
 Credit billzoygkos
 
