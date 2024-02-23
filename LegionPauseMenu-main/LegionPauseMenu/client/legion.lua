@@ -82,4 +82,4 @@ RegisterNUICallback('SendAction', function(data, cb)
 end)
 
 
-print("Legion PAUSE MENU READY")
+print("Legion PAUSE MENU")
