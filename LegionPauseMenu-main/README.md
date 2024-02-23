@@ -2,11 +2,11 @@ REDM PAUSE MENU
 
 Working on All Cores
 
-DISCORD https://discord.gg/
+DISCORD https://discord.gg/uQudG2U734
 
-GitHub https://github.com/
+GitHub [https://github.com/](https://github.com/MurilotiagoTI)
 
-Download https://github.com/
+Download [https://github.com/](https://github.com/MurilotiagoTI/LegionPauseMenu-main)
 
 Credit billzoygkos
 
@@ -18,7 +18,7 @@ Converted for Redm By legion
 How to Instal 
 1) Download 
 2) Drag and Drop to your Resources 
-3) Ensure to your server.cfg ensure TucanPauseMenu
+3) Ensure to your server.cfg ensure LegionPauseMenu
 
 
 For support join my Discord server
