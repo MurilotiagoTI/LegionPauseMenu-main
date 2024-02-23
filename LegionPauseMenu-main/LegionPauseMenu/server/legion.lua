@@ -5,4 +5,4 @@ DropPlayer(source,"Pause menu quit !")
 
 end)
 
-print("Legion PAUSE MENU READY")
+print("Legion PAUSE MENU")
