@@ -1,8 +1,8 @@
-REDM PAUSE MENU 
+REDM PAUSE MENU  FREE
 
 Working on All Cores
 
-DISCORD https://discord.gg/uQudG2U734
+DISCORD LEGION STORE https://discord.gg/uQudG2U734
 
 GitHub [https://github.com/](https://github.com/MurilotiagoTI)
 
